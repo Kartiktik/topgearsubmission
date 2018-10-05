@@ -1,3 +1,1 @@
-# topgearsubmission
-Python parser using Pandas
-Execute test.py
+# Execute test.py
